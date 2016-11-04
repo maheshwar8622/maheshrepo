@@ -9,7 +9,7 @@ public WebDriver driver;
 		this.driver = driver ;
 	}
 
-
+System.out.println("Changes made");
 public String getTitle ( ){
 	return driver.getTitle();
 }
