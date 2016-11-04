@@ -1,0 +1,5 @@
+com\amazon\selenium\Nosession\LaunchPage.class
+com\amazon\selenium\session\LandingPage.class
+com\amazon\selenium\session\ProfilePage.class
+com\amazon\selenium\Nosession\Loginpage.class
+com\seleniumTest\ProfileTest.class
